@@ -12,21 +12,6 @@
   </picture>
 </p>
 
-
-<!-- ========================================================= -->
-<!--                  ABUBAKAR TOWFIQ                          -->
-<!--                    PROFILE README                          -->
-<!-- ========================================================= -->
-
-<!-- RESPONSIVE LIGHT / DARK BANNER -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./art/header-dark.svg" />
-    <img src="./art/header-light.svg" alt="Abubakar Towfiq" width="100%" />
-  </picture>
-</p>
-
 <h1 align="center">Hey there, I'm Abubakar Towfiq 👋</h1>
 
 <h3 align="center">
