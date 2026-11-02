@@ -248,32 +248,32 @@ Senior QA Engineer | SDET
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌾 Farm Overflow</h3>
+<h3 align="center"> 🌾Duopole</h3>
 
 <p align="center">
-  <a href="https://github.com/zubeir-Abubakar/overflow">
+  <a href="duopole.vercel.app">
     <img src="https://img.shields.io/badge/Explore-Repository-0f85fa?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-A Python/Flask web application designed for farmers to create accounts, publish posts, manage profiles, and interact through comments.
+A Python/Flask web application Duopole Fresh Imports is developing commercial relationships that connect fresh-produce suppliers with potential buyers in Switzerland. Our initial focus is Kenyan avocados, with future opportunities explored selectively and transparently.
 
-**Technologies:** Python, Flask, HTML.
+**Technologies:** ReactJS, TypeScript , Vite.
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🎈 Flying Balloons</h3>
+<h3 align="center"> 🧑‍🧒‍🧒 Centre de vie enfantine </h3>
 
 <p align="center">
-  <a href="https://github.com/zubeir-Abubakar/Flying-Ballons-Animation-">
+  <a href="https://malleyprairie.vercel.app/">
     <img src="https://img.shields.io/badge/Explore-Repository-0f85fa?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
-A JavaScript animation project featuring animated flying balloons.
+Caring day care shaped around children’s wellbeing, independence and discoveries.
 
-**Technologies:** JavaScript, HTML.
+**Technologies:** JavaScript, HTML,Vite.
 
 </td>
 </tr>
