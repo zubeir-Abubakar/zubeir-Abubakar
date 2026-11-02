@@ -106,7 +106,7 @@ I believe quality engineering goes beyond finding bugs. It's about preventing de
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/zubeir-Abubakar.png" width="210" alt="Abubakar Towfiq"/>
+<img src="./Thoughtful Developer Workspace.png" width="210" alt="Abubakar Towfiq"/>
 
 <br/><br/>
 
